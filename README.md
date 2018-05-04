@@ -149,7 +149,7 @@ Code Here:
             
             <textarea id="cssPanel" class="panel hidden">p { color: green; }</textarea>
             
-            <textarea id="javascriptPanel" class="panel hidden">document.getElementById("paragraph").innerHTML = "Hello Rob!";</textarea>
+            <textarea id="javascriptPanel" class="panel hidden">document.getElementById("paragraph").innerHTML = "Hello Kish!";</textarea>
             
             <iframe id="outputPanel" class="panel"></iframe>
         
